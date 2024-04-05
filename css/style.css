@@ -1,0 +1,16 @@
+/* input {
+  color: red;
+}
+input::placeholder {
+  color: brown;
+}
+input:focus {
+  background-color: yellow;
+}
+input:active {
+  background-color: green;
+}
+input:disabled {
+  border-color: blue;
+  background-color: chocolate;
+} */
